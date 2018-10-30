@@ -96,7 +96,7 @@ fit1_lme0_ML  <- lme(Y ~  Cond, random=~1|Pp, weights = vf1, control = lmeContro
 stepAIC(fit1_lme0_ML)
 
 ## ****************
-## ACTION REQUIRED: Take the last suggested model by stepAIC and copy it in all models below.
+## ACTION REQUIRED (only for multiple): Take the last suggested model by stepAIC and copy it in all models below. NB: For a single measure this is always going to be the 'whole' thing ('Cond').
 
 # 13) Create the FINAL PREFERRED MODEL:
 fit1_lme_Y   <- lme(Y ~  Cond , random=~1|Pp, weights = vf1, control = lmeControl(maxIter = 100 , msMaxIter =100, niterEM = 50 ),data = na.omit(data1), method="REML" )#
