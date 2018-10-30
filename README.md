@@ -36,7 +36,7 @@ Pay close attention to the statements with 'ACTION REQUIRED'. These involve some
 
 LMM_single
 ------------------------------------------------
-It is entirely described in 20 steps. Note that steps 11-14 are less relevant for LMM analyses with a single factor. Typically, a single factor analysis should not require much 'ACTION REQUIRED'.
+It is entirely described in 20 steps. Note that steps 11-14 are less (or not) relevant for LMM analyses with a single factor. Typically, a single factor analysis should not require much 'ACTION REQUIRED'.
 
 LMM_multiple
 ------------------------------------------------
