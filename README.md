@@ -3,7 +3,7 @@ A walkthrough of using Linear Mixed Models with random effects (useful for exper
 
 ReadMe - Linear Mixed Models (LMM) analysis in R
 ------------------------------------------------
-Any questions, contact me on rensmeerhoff@gmail.com
+Any questions, feel free to contact me.
 
 Below a brief explanation of how to use the LMM R scripts (LMM_single and LMM_multiple).
 LMM_single concerns the analysis for only 1 Factor (independent variable). This requires many less steps as it is not necessary to verify the coveriance matrix.
