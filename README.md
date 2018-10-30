@@ -14,10 +14,10 @@ Meerhoff, L. A., De Poel, H. J., & Button, C. (2014). How visual information inf
 Meerhoff, L. A. (2016). Follow the Leader: The Role of Local and Global Visual Information for Keeping Distance in Interpersonal Coordination (Thesis, Doctor of Philosophy). University of Otago. Retrieved from http://hdl.handle.net/10523/6248
 Meerhoff, L.A., De Poel, H.J., Jowett, T.W.D. & Button, C. (2017). Influence of Gait Mode and Body Orientation on Following a Walking Avatar. Human Movement Science, 54, 377-387.
 \* Meerhoff, L.A., Pettré, J., Lynch, S.D., Crétual, A., & Olivier, A-H. (Under review). Collision avoidance with multiple walkers: Sequential or simultaneous interactions?
-\*\* Meerhoff, L.A., De Poel, H.J., & Button, C. (Under review). ‘Walking with avatars’: how visual information is used for regulating distance to other walkers.
+\n\*\* Meerhoff, L.A., De Poel, H.J., & Button, C. (Under review). ‘Walking with avatars’: how visual information is used for regulating distance to other walkers.
 
 \* Still under review. Hopefully out soon. If you need the text earlier, you can ask me for the latest manuscript.
-\*\* Needs to be resubmitted. Of this manuscript, I also have a version where I try to deal with effect sizes.
+\n\*\* Needs to be resubmitted. Of this manuscript, I also have a version where I try to deal with effect sizes.
 
 ------------------------------------------------
 ------------------------------------------------
