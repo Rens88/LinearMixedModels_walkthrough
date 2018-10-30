@@ -10,11 +10,11 @@ LMM_single concerns the analysis for only 1 Factor (independent variable). This 
 LMM_multiple concerns the anlaysis for multiple Factors. With this script you can include many different factors. This implies that you have to test which covariance matrix is most suited. In short, you could say that per Factor it is tested whether the coveriance matrix has to be adapted to the random effects model, or whether it can simply fit a standard model.
 For some examples on how I have reported this LMM analysis in the past, see the methods sections of:
 
-*Meerhoff, L. A., De Poel, H. J., & Button, C. (2014). How visual information influences coordination dynamics when following the leader. Neurosci Lett, 582, 12-15. doi: 10.1016/j.neulet.2014.08.022
-*Meerhoff, L. A. (2016). Follow the Leader: The Role of Local and Global Visual Information for Keeping Distance in Interpersonal Coordination (Thesis, Doctor of Philosophy). University of Otago. Retrieved from http://hdl.handle.net/10523/6248
-*Meerhoff, L.A., De Poel, H.J., Jowett, T.W.D. & Button, C. (2017). Influence of Gait Mode and Body Orientation on Following a Walking Avatar. Human Movement Science, 54, 377-387.
-*\* Meerhoff, L.A., Pettré, J., Lynch, S.D., Crétual, A., & Olivier, A-H. (Under review). Collision avoidance with multiple walkers: Sequential or simultaneous interactions?
-*\*\* Meerhoff, L.A., De Poel, H.J., & Button, C. (Under review). ‘Walking with avatars’: how visual information is used for regulating distance to other walkers.
+* Meerhoff, L. A., De Poel, H. J., & Button, C. (2014). How visual information influences coordination dynamics when following the leader. Neurosci Lett, 582, 12-15. doi: 10.1016/j.neulet.2014.08.022
+* Meerhoff, L. A. (2016). Follow the Leader: The Role of Local and Global Visual Information for Keeping Distance in Interpersonal Coordination (Thesis, Doctor of Philosophy). University of Otago. Retrieved from http://hdl.handle.net/10523/6248
+* Meerhoff, L.A., De Poel, H.J., Jowett, T.W.D. & Button, C. (2017). Influence of Gait Mode and Body Orientation on Following a Walking Avatar. Human Movement Science, 54, 377-387.
+* \* Meerhoff, L.A., Pettré, J., Lynch, S.D., Crétual, A., & Olivier, A-H. (Under review). Collision avoidance with multiple walkers: Sequential or simultaneous interactions?
+* \*\* Meerhoff, L.A., De Poel, H.J., & Button, C. (Under review). ‘Walking with avatars’: how visual information is used for regulating distance to other walkers.
 
 \* Still under review. Hopefully out soon. If you need the text earlier, you can ask me for the latest manuscript.
 
