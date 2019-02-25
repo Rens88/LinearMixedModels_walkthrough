@@ -13,12 +13,10 @@ For some examples on how I have reported this LMM analysis in the past, see the 
 * Meerhoff, L. A., De Poel, H. J., & Button, C. (2014). How visual information influences coordination dynamics when following the leader. Neurosci Lett, 582, 12-15. doi: 10.1016/j.neulet.2014.08.022
 * Meerhoff, L. A. (2016). Follow the Leader: The Role of Local and Global Visual Information for Keeping Distance in Interpersonal Coordination (Thesis, Doctor of Philosophy). University of Otago. Retrieved from http://hdl.handle.net/10523/6248
 * Meerhoff, L.A., De Poel, H.J., Jowett, T.W.D. & Button, C. (2017). Influence of Gait Mode and Body Orientation on Following a Walking Avatar. Human Movement Science, 54, 377-387.
-* \* Meerhoff, L.A., Pettré, J., Lynch, S.D., Crétual, A., & Olivier, A-H. (Under review). Collision avoidance with multiple walkers: Sequential or simultaneous interactions?
-* \*\* Meerhoff, L.A., De Poel, H.J., & Button, C. (Under review). ‘Walking with avatars’: how visual information is used for regulating distance to other walkers.
+* \* Meerhoff, L.A., Pettré, J., Lynch, S.D., Crétual, A., & Olivier, A-H. (Under review). Collision avoidance with multiple walkers: Sequential or simultaneous interactions? Front. Psychol. 9:2354. doi: 10.3389/fpsyg.2018.02354 https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02354/full
+* \* Meerhoff, L.A., De Poel, H.J., & Button, C. (Under review). ‘Walking with avatars’: how visual information is used for regulating distance to other walkers.
 
 \* Still under review. Hopefully out soon. If you need the text earlier, you can ask me for the latest manuscript.
-
-\*\* Needs to be resubmitted. Of this manuscript, I also have a version where I try to deal with effect sizes.
 
 ------------------------------------------------
 ------------------------------------------------
