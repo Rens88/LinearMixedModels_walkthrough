@@ -45,3 +45,24 @@ Note that subsequently under 10) there are many more models to test for the lowe
 Note that the model may not converge. You can set the maximum computation time using ", control = lmeControl(maxIter = 100 , msMaxIter =100, niterEM = 50 )" in the same line as the weights.
 Under 15), you now have to test each factor separately. Especially if your main factor is behaving badly, you must try to improve the model (selecting different cov matrix, excluding outliers..).
 Under 18-20), you can now export the statistics for each factor (and their interactions separately). Note that it is only meaningful to do this for the factors and interactions that were significant in the ANOVA at 16).
+
+
+A note on the degrees of freedom
+------------------------------------------------
+A common question arising from reporting these LMMs will be how the degrees of freedom were determined.The short answer is that the degrees of freedom vary per dependent variable (which can be confusing if you present multiple variables in your paper), because the final model to which the statistics were applied were optimized using Akaike’s information criterion. That is, for some variables, all possible combinations of main effects and interaction effects may be included, whereas for others some of the possible combinations could be omitted.
+The degrees of freedom can be computed using:
+denDF = m_2 - (m_1 + p_2)
+Where m_2 is total number of valid observations (NB: when using this is a repeated measures, the number of observiations is equal to the number of trials)
+Where m_1 is the number of groups (NB: when using this is a repeated measures, the number of groups is equal to the number of participants)
+And where p_2 are the degrees of freedom corresponding to the terms that are included in the final model.
+p_2 can be calculated by -for each factor in the term- multiplying the cardinality - 1.
+Consider the following example:
+Your dataset contains the following independent variables: var1 with cardinality of 5, var2 with cardinality of 2 and var3 with cardinality 3.
+Your dataset contains 15 participants (your level 1 grouping variable) and in total 545 valid (without missing cases) observations
+Your final model includes: var1 + var2 + var3 + var2:var3
+m_2 = 545
+m_1 = 15
+p_2 = (5 - 1) + (2 - 1) + (3 - 1) + ((2-1) * (3-1))
+    = 9
+denDF = 545 - (15 + 9)
+      = 521
