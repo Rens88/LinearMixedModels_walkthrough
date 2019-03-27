@@ -66,3 +66,6 @@ p_2 = (5 - 1) + (2 - 1) + (3 - 1) + ((2-1) * (3-1))
     = 9
 denDF = 545 - (15 + 9)
       = 521
+
+For more information, see:
+Goldstein, H., Healy, M. J., & Rasbash, J. (1994). Multilevel time series models with applications to repeated measures data. Stat Med, 13(16), 1643-1655. 
